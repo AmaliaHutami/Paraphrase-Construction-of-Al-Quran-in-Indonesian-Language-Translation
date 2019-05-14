@@ -1,0 +1,21 @@
+# sentence pair 1
+Allah Yang Maha Pemurah .
+['NULL', '({ / / })', [['tuhan', '({ 1 / / })'], ['yang', '({ 2 / / })'], ['mahaluas', '({ / / })'], ['dan', '({ / / })'], ['kekal', '({ / / })'], ['belas', '({ / / })'], ['kasih', '({ / / })'], ['nya', '({ / / })'], ['kepada', '({ / / })'], ['orang', '({ / / })'], ['mukmin', '({ / / })'], ['', '({ 5 / / })']]]
+# sentence pair 2
+Yang telah mengajarkan Al-Quran .
+['NULL', '({ / / })', [['tuhan', '({ / / })'], ['yang', '({ 1 / / })'], ['ajar', '({ 3 / / })'], ['al-quran', '({ 4 / / })'], ['kepada', '({ / / })'], ['muhammad', '({ / / })'], ['', '({ 5 / / })']]]
+# sentence pair 3
+Dia menciptakan manusia .
+['NULL', '({ / / })', [['tuhan', '({ 1 / / })'], ['yang', '({ / / })'], ['telah', '({ / / })'], ['cipta', '({ 2 / / })'], ['manusia', '({ 3 / / })'], ['', '({ 4 / / })']]]
+# sentence pair 4
+mengajarnya pandai berbicara .
+['NULL', '({ / / })', [['tuhan', '({ / / })'], ['yang', '({ / / })'], ['telah', '({ / / })'], ['ajar', '({ 1 / / })'], ['bahasa', '({ / / })'], ['kepada', '({ / / })'], ['manusia', '({ / / })'], ['', '({ 4 / / })']]]
+# sentence pair 5
+Matahari dan bulan beredar menurut perhitungan .
+['NULL', '({ / / })', [['matahari', '({ 1 / / })'], ['dan', '({ 2 / / })'], ['bulan', '({ 3 / / })'], ['edar', '({ 4 / / })'], ['pada', '({ / / })'], ['orbit', '({ / / })'], ['dengan', '({ / / })'], ['ikut', '({ 5 / / })'], ['tetap', '({ / / })'], ['allah', '({ / / })'], ['', '({ 7 / / })']]]
+# sentence pair 6
+Dan tetumbuhan dan pepohonan keduanya tunduk kepadaNya .
+['NULL', '({ / / })', [['binatang', '({ / / })'], ['dan', '({ 1 3 / / })'], ['pohon', '({ 4 / / })'], ['tunduk', '({ 6 / / })'], ['kepada', '({ / / })'], ['hendak', '({ / / })'], ['tuhan', '({ / / })'], ['', '({ 8 / / })']]]
+# sentence pair 7
+Dan langit telah ditinggikan dan Dia ciptakan keseimbangan .
+['NULL', '({ / / })', [['allah', '({ / / })'], ['telah', '({ / / })'], ['tinggi', '({ / / })'], ['langit', '({ 2 / / })'], ['dan', '({ 1 7 / / })'], ['tetap', '({ / / })'], ['standar', '({ / / })'], ['adil', '({ 8 / / })'], ['', '({ 9 / / })']]]
